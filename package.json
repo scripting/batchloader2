@@ -1,0 +1,11 @@
+{
+	"name": "batchloader2",
+	"version": "0.4.0",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "batchloader2.js",
+	"dependencies": {
+		"daveutils": "*",
+		"s3folderloader": "*",
+		"davehttp": "*"
+		}
+	}
